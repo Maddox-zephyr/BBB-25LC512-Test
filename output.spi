@@ -1,0 +1,3984 @@
+Releasing from Deep power-down and Read Electronic Signature
+STATUS is 0x29
+Setting write enable bit
+Erase all Sectors
+Reading STATUS register
+STATUS is 0x03
+Erase in progress...
+Reading STATUS register
+STATUS is 0x00
+Erase finished...
+Reading page 0, byte 0 to validate erase
+Setting write enable bit
+Writing to page 0
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 1
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 2
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 3
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 4
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 5
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 6
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 7
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 8
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 9
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 10
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 11
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 12
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 13
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 14
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 15
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 16
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 17
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 18
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 19
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 20
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 21
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 22
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 23
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 24
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 25
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 26
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 27
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 28
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 29
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 30
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 31
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 32
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 33
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 34
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 35
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 36
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 37
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 38
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 39
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 40
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 41
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 42
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 43
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 44
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 45
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 46
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 47
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 48
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 49
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 50
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 51
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 52
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 53
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 54
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 55
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 56
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 57
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 58
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 59
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 60
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 61
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 62
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 63
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 64
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 65
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 66
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 67
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 68
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 69
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 70
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 71
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 72
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 73
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 74
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 75
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 76
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 77
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 78
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 79
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 80
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 81
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 82
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 83
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 84
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 85
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 86
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 87
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 88
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 89
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 90
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 91
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 92
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 93
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 94
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 95
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 96
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 97
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 98
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 99
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 100
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 101
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 102
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 103
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 104
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 105
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 106
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 107
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 108
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 109
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 110
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 111
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 112
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 113
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 114
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 115
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 116
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 117
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 118
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 119
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 120
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 121
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 122
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 123
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 124
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 125
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 126
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 127
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 128
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 129
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 130
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 131
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 132
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 133
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 134
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 135
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 136
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 137
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 138
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 139
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 140
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 141
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 142
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 143
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 144
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 145
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 146
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 147
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 148
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 149
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 150
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 151
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 152
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 153
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 154
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 155
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 156
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 157
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 158
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 159
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 160
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 161
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 162
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 163
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 164
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 165
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 166
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 167
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 168
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 169
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 170
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 171
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 172
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 173
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 174
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 175
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 176
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 177
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 178
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 179
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 180
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 181
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 182
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 183
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 184
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 185
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 186
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 187
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 188
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 189
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 190
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 191
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 192
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 193
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 194
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 195
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 196
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 197
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 198
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 199
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 200
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 201
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 202
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 203
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 204
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 205
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 206
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 207
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 208
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 209
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 210
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 211
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 212
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 213
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 214
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 215
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 216
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 217
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 218
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 219
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 220
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 221
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 222
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 223
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 224
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 225
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 226
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 227
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 228
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 229
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 230
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 231
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 232
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 233
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 234
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 235
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 236
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 237
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 238
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 239
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 240
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 241
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 242
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 243
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 244
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 245
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 246
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 247
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 248
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 249
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 250
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 251
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 252
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 253
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 254
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 255
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 256
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 257
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 258
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 259
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 260
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 261
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 262
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 263
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 264
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 265
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 266
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 267
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 268
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 269
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 270
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 271
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 272
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 273
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 274
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 275
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 276
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 277
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 278
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 279
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 280
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 281
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 282
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 283
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 284
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 285
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 286
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 287
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 288
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 289
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 290
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 291
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 292
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 293
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 294
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 295
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 296
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 297
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 298
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 299
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 300
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 301
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 302
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 303
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 304
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 305
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 306
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 307
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 308
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 309
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 310
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 311
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 312
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 313
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 314
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 315
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 316
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 317
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 318
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 319
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 320
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 321
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 322
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 323
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 324
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 325
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 326
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 327
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 328
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 329
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 330
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 331
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 332
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 333
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 334
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 335
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 336
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 337
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 338
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 339
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 340
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 341
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 342
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 343
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 344
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 345
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 346
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 347
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 348
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 349
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 350
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 351
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 352
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 353
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 354
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 355
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 356
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 357
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 358
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 359
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 360
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 361
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 362
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 363
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 364
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 365
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 366
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 367
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 368
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 369
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 370
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 371
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 372
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 373
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 374
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 375
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 376
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 377
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 378
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 379
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 380
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 381
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 382
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 383
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 384
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 385
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 386
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 387
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 388
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 389
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 390
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 391
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 392
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 393
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 394
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 395
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 396
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 397
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 398
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 399
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 400
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 401
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 402
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 403
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 404
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 405
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 406
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 407
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 408
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 409
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 410
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 411
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 412
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 413
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 414
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 415
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 416
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 417
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 418
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 419
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 420
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 421
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 422
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 423
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 424
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 425
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 426
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 427
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 428
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 429
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 430
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 431
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 432
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 433
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 434
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 435
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 436
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 437
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 438
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 439
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 440
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 441
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 442
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 443
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 444
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 445
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 446
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 447
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 448
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 449
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 450
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 451
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 452
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 453
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 454
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 455
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 456
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 457
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 458
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 459
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 460
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 461
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 462
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 463
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 464
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 465
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 466
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 467
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 468
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 469
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 470
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 471
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 472
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 473
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 474
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 475
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 476
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 477
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 478
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 479
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 480
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 481
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 482
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 483
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 484
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 485
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 486
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 487
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 488
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 489
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 490
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 491
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 492
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 493
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 494
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 495
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 496
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 497
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 498
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 499
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 500
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 501
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 502
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 503
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 504
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 505
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 506
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 507
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 508
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 509
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 510
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+Setting write enable bit
+Writing to page 511
+Reading STATUS register
+STATUS is 0x03
+Write in progress...
+Reading STATUS register
+STATUS is 0x00
+Write finished...
+ : Read all pages back and compare to what we wrote
+ : Test Complete
+ : Putting Device into Deep Power Down
